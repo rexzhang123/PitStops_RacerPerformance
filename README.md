@@ -13,7 +13,7 @@ A pit stop is a crucial aspect of motor racing. It is a pause during the race wh
 ## :trophy: Importance of Pit Stops
 
 Pit stops are not just routine pauses; they carry significant strategic importance:
-- Tire Changes and :fuelpump: Refueling**: Essential for maintaining optimal vehicle performance.
+- Tire Changes and Refueling**: Essential for maintaining optimal vehicle performance.
 - Repairs or Track Optimizations**: Crucial for adapting to race conditions or recovering from wear and tear.
 - Penalties**: Can affect the race strategy and overall performance.
 
