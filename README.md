@@ -5,17 +5,17 @@ This repository explores the strategic importance of pit stops in racing and how
 ## :toolbox: What is a Pit Stop?
 
 A pit stop is a crucial aspect of motor racing. It is a pause during the race where a team can perform various actions such as:
-- :fuelpump: Refueling the car.
-- :tire: Changing tires.
-- :hammer_and_wrench: Conducting repairs or mechanical adjustments.
-- :busts_in_silhouette: Changing drivers, or :stop_sign: serving a penalty.
+- Refueling the car.
+- Changing tires.
+- Conducting repairs or mechanical adjustments.
+- Changing drivers, or :stop_sign: serving a penalty.
 
 ## :trophy: Importance of Pit Stops
 
 Pit stops are not just routine pauses; they carry significant strategic importance:
-- **:tire: Tire Changes and :fuelpump: Refueling**: Essential for maintaining optimal vehicle performance.
-- **:wrench: Repairs or Track Optimizations**: Crucial for adapting to race conditions or recovering from wear and tear.
-- **:warning: Penalties**: Can affect the race strategy and overall performance.
+- Tire Changes and :fuelpump: Refueling**: Essential for maintaining optimal vehicle performance.
+- Repairs or Track Optimizations**: Crucial for adapting to race conditions or recovering from wear and tear.
+- Penalties**: Can affect the race strategy and overall performance.
 
 Pit stops and their associated strategies are often a deciding factor in a race. The timing and duration of a pit stop can significantly influence a team’s overall race performance.
 
